@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I'd love to develop a Personal AI assistant for spiritual growth.
+- 🤔 I’m looking for help with a device, which knows everything about acupuncture, acupressure and physiotherapy and learns from the users practice will help the users to learn everything about their own physical and psychological well-being and can give advice or even set acupuncture needles or recommend special yoga positions to release the pain, 
 <!--
 **Antonnovic/Antonnovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
